@@ -1,0 +1,254 @@
+{
+  "SMEmanu1": {
+    "KYC": {
+      "businessPANFile": [
+        {
+          "originalName": "PAN.pdf",
+          "storedName": "businessPANFile_1765364819158_PAN.pdf",
+          "relativePath": "SMEmanu1/KYC/businessPANFile_1765364819158_PAN.pdf",
+          "uploadedAt": "2025-12-10T11:06:59.160Z"
+        }
+      ],
+      "ownerPANFile": [
+        {
+          "originalName": "PAN.pdf",
+          "storedName": "ownerPANFile_1765364819160_PAN.pdf",
+          "relativePath": "SMEmanu1/KYC/ownerPANFile_1765364819160_PAN.pdf",
+          "uploadedAt": "2025-12-10T11:06:59.161Z"
+        }
+      ],
+      "ownerAadharFile": [
+        {
+          "originalName": "Aadhar.pdf",
+          "storedName": "ownerAadharFile_1765364819161_Aadhar.pdf",
+          "relativePath": "SMEmanu1/KYC/ownerAadharFile_1765364819161_Aadhar.pdf",
+          "uploadedAt": "2025-12-10T11:06:59.163Z"
+        }
+      ]
+    },
+    "Business_Proof": {
+      "regDocFile": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "regDocFile_1765364839006_Lala.pdf",
+          "relativePath": "SMEmanu1/Business_Proof/regDocFile_1765364839006_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:07:19.009Z"
+        }
+      ]
+    },
+    "Income_Proof/FY1": {
+      "pl_fy1": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "pl_fy1_1765364893834_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY1/pl_fy1_1765364893834_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.835Z"
+        }
+      ],
+      "bs_fy1": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bs_fy1_1765364893836_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY1/bs_fy1_1765364893836_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.836Z"
+        }
+      ],
+      "itr_fy1": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "itr_fy1_1765364893836_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY1/itr_fy1_1765364893836_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.837Z"
+        }
+      ]
+    },
+    "Income_Proof/FY2": {
+      "pl_fy2": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "pl_fy2_1765364893837_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY2/pl_fy2_1765364893837_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.838Z"
+        }
+      ],
+      "bs_fy2": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bs_fy2_1765364893838_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY2/bs_fy2_1765364893838_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.839Z"
+        }
+      ],
+      "itr_fy2": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "itr_fy2_1765364893839_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY2/itr_fy2_1765364893839_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.840Z"
+        }
+      ]
+    },
+    "Income_Proof/FY3": {
+      "pl_fy3": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "pl_fy3_1765364893840_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY3/pl_fy3_1765364893840_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.840Z"
+        }
+      ],
+      "bs_fy3": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bs_fy3_1765364893841_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY3/bs_fy3_1765364893841_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.842Z"
+        }
+      ],
+      "itr_fy3": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "itr_fy3_1765364893842_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/FY3/itr_fy3_1765364893842_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.843Z"
+        }
+      ]
+    },
+    "Income_Proof/Bank": {
+      "bankStatementFile": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bankStatementFile_1765364893843_Lala.pdf",
+          "relativePath": "SMEmanu1/Income_Proof/Bank/bankStatementFile_1765364893843_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:08:13.843Z"
+        }
+      ]
+    }
+  },
+  "SMEserv2": {
+    "KYC": {
+      "businessPANFile": [
+        {
+          "originalName": "PAN.pdf",
+          "storedName": "businessPANFile_1765367701534_PAN.pdf",
+          "relativePath": "SMEserv2/KYC/businessPANFile_1765367701534_PAN.pdf",
+          "uploadedAt": "2025-12-10T11:55:01.538Z"
+        }
+      ],
+      "ownerPANFile": [
+        {
+          "originalName": "PAN.pdf",
+          "storedName": "ownerPANFile_1765367701539_PAN.pdf",
+          "relativePath": "SMEserv2/KYC/ownerPANFile_1765367701539_PAN.pdf",
+          "uploadedAt": "2025-12-10T11:55:01.540Z"
+        }
+      ],
+      "ownerAadharFile": [
+        {
+          "originalName": "Aadhar.pdf",
+          "storedName": "ownerAadharFile_1765367701540_Aadhar.pdf",
+          "relativePath": "SMEserv2/KYC/ownerAadharFile_1765367701540_Aadhar.pdf",
+          "uploadedAt": "2025-12-10T11:55:01.541Z"
+        }
+      ]
+    },
+    "Business_Proof": {
+      "regDocFile": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "regDocFile_1765367730164_Lala.pdf",
+          "relativePath": "SMEserv2/Business_Proof/regDocFile_1765367730164_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:55:30.165Z"
+        }
+      ]
+    },
+    "Income_Proof/FY1": {
+      "pl_fy1": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "pl_fy1_1765367782829_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY1/pl_fy1_1765367782829_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.831Z"
+        }
+      ],
+      "bs_fy1": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bs_fy1_1765367782832_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY1/bs_fy1_1765367782832_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.832Z"
+        }
+      ],
+      "itr_fy1": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "itr_fy1_1765367782833_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY1/itr_fy1_1765367782833_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.833Z"
+        }
+      ]
+    },
+    "Income_Proof/FY2": {
+      "pl_fy2": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "pl_fy2_1765367782834_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY2/pl_fy2_1765367782834_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.834Z"
+        }
+      ],
+      "bs_fy2": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bs_fy2_1765367782834_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY2/bs_fy2_1765367782834_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.835Z"
+        }
+      ],
+      "itr_fy2": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "itr_fy2_1765367782835_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY2/itr_fy2_1765367782835_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.836Z"
+        }
+      ]
+    },
+    "Income_Proof/FY3": {
+      "pl_fy3": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "pl_fy3_1765367782836_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY3/pl_fy3_1765367782836_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.837Z"
+        }
+      ],
+      "bs_fy3": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bs_fy3_1765367782837_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY3/bs_fy3_1765367782837_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.838Z"
+        }
+      ],
+      "itr_fy3": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "itr_fy3_1765367782838_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/FY3/itr_fy3_1765367782838_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.839Z"
+        }
+      ]
+    },
+    "Income_Proof/Bank": {
+      "bankStatementFile": [
+        {
+          "originalName": "Lala.pdf",
+          "storedName": "bankStatementFile_1765367782839_Lala.pdf",
+          "relativePath": "SMEserv2/Income_Proof/Bank/bankStatementFile_1765367782839_Lala.pdf",
+          "uploadedAt": "2025-12-10T11:56:22.839Z"
+        }
+      ]
+    }
+  }
+}
